@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="introTitle">Explore the <font color='#3f95ec'>\n World</font> with us</string>
+    <string name="subIntro">Lorem ipsum dolor sit amet, consectetur\n
+        adipiscing elit,sed do eiusmod tempor.</string>
+    <string name="street_addrees_city">Street, Addrees, City...</string>
+    <string name="search">Search</string>
+    <string name="see_all">see all</string>
+    <string name="recommended">Recommended</string>
+    <string name="title">title</string>
+    <string name="person">/Person</string>
+    <string name="_0">$0</string>
+    <string name="address">address</string>
+    <string name="_5">5</string>
+    <string name="title_l">title</string>
+    <string name="distance">Distance</string>
+    <string name="show_this_toicjet_to_the_your_guide_before_departure">Show this toicjet to the your guide before departure</string>
+</resources>
