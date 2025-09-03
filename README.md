@@ -14,11 +14,11 @@ The app allows users to explore destinations, view details, and book tickets sea
 
 ##  Screenshots  
 
-###  Explore Screen  
-<img src="https://github.com/user-attachments/assets/16d73f8f-2a6d-4b07-9f67-05ac45b0188d" alt="Explore Screen" width="300"/>  
-
-###  Destination Detail  
+###  Main Screen  
 <img src="https://github.com/user-attachments/assets/217122b3-6c0d-461d-bc4d-14a7cfdc007e" alt="Detail Screen" width="300"/>  
+
+###  Dashboard Detail  
+<img src="https://github.com/user-attachments/assets/16d73f8f-2a6d-4b07-9f67-05ac45b0188d" alt="Explore Screen" width="300"/>  
 
 ###  Ticket Booking  
 <img src="https://github.com/user-attachments/assets/6c1959e2-9844-4721-8270-1afd941da3b9" alt="Ticket Booking" width="300"/>  
